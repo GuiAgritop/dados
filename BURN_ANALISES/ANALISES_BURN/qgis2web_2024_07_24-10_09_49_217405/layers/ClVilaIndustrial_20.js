@@ -1,0 +1,1 @@
+var json_ClVilaIndustrial_20 = {"type":"FeatureCollection","name":"ClVilaIndustrial_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-45.853646059955771,-23.177741544541856]}}]}

@@ -1,0 +1,1 @@
+var json_ClJddasIndustrias_27 = {"type":"FeatureCollection","name":"ClJddasIndustrias_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"LIDERES":null,"TELEFONE":null,"ENDEREÇO":null},"geometry":{"type":"Point","coordinates":[-45.916962771687061,-23.220674669237322]}}]}

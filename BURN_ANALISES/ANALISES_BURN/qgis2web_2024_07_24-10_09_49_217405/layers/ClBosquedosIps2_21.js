@@ -1,0 +1,1 @@
+var json_ClBosquedosIps2_21 = {"type":"FeatureCollection","name":"ClBosquedosIps2_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-45.89782272937542,-23.258510552942216]}}]}
