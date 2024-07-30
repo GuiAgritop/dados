@@ -1,1 +1,0 @@
-https://webapp2.sjc.sp.gov.br:8443/geoserver/wfs?request=getfeature&service=wfs&srsName=EPSG:31983&version=1.0.0&outputformat=SHAPE-ZIP&typename=geoSJC:nucleosUrbanosInformais
