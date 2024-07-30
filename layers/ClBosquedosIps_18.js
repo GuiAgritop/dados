@@ -1,1 +1,0 @@
-var json_ClBosquedosIps_18 = {"type":"FeatureCollection","name":"ClBosquedosIps_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-45.897963154710219,-23.257373893158448]}}]}

@@ -1,1 +1,0 @@
-var json_ClColonial_17 = {"type":"FeatureCollection","name":"ClColonial_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-45.892877909519555,-23.288451266955242]}}]}

@@ -1,1 +1,0 @@
-var json_ClParqueResidencialUnio_22 = {"type":"FeatureCollection","name":"ClParqueResidencialUnio_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"address":null},"geometry":{"type":"Point","coordinates":[-45.90241360000001,-23.2631807]}}]}
